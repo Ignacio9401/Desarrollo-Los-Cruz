@@ -20,7 +20,7 @@ const terrenos = [
     medidas: "Desde 115.50m² hasta 150m²",
     precio: 169500,
     img: "../Desarrollo_Los_Cruz/Barrio_Benito/img/Barrio_Benito (1).jpeg",
-    pagina: "../Desarrollo_Los_Cruz/Barrio_Benito/Barrio_benito.html"
+    pagina: "../Desarrollo_Los_Cruz/Barrio_Benito/Barrio_Benito.html"
   },
   {
     nombre: "Quinta Pascual",
@@ -67,5 +67,6 @@ terrenos.forEach(t => {
   `;
   catalogo.appendChild(card);
 });
+
 
 
