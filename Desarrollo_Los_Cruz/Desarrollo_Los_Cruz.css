@@ -18,7 +18,7 @@ body {
 /*------------------*/
 nav {
   background: rgba(182, 199, 202,0.9); 
-  padding: 10px 20px;
+  padding: 100px 20px;
   text-align: center;
   position: fixed;
   top: 0;
@@ -223,4 +223,5 @@ footer {
     height: 250px; 
   }
 }
+
 
